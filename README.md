@@ -9,3 +9,4 @@
 <TABLE BORDER=6>
 <TR><TH> Chipsety <\TH> <TH> TDP <\TH> <TH> Liczba portów USB <\TH> <TH> Wersja PCI Express <\TH> <TH> Litografia <\TH> <TH> Wersja USB <\TH> <\TR>
   
+  
