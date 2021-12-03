@@ -9,7 +9,7 @@
 <TABLE BORDER=6>
 <TR><TH> Chipsety <\TH> <TH> TDP <\TH> <TH> Liczba portów USB <\TH> <TH> Wersja PCI Express <\TH> <TH> Wersja USB <\TH> <TH> Szybkość magistrali <\TH> <\TR>
 <TR><TH> Intel B360 <\TH> <TH> 6W <\TH> <TH> 12 <\TH> <TH> 3,0 <\TH> <TH> 3,1/2,0 <\TH> <TH> 8GT/s <\TH>
-<TR><TH> Intel C628 <\TH> <TH> 26.3W <\TH> <TH> 14 <\TH> <TH> GEN 3 <\TH> <TH> 3.0/2.0 <\TH> <TH> <\TH>
+<TR><TH> Intel C628 <\TH> <TH> 26.3W <\TH> <TH> 14 <\TH> <TH> GEN 3 <\TH> <TH> 3.0/2.0 <\TH> <TH> 8GT/s <\TH>
 <TR><TH> Intel Z390 <\TH> <TH> 6W <\TH> <TH> 14 <\TH> <TH> 3.0 <\TH> <TH> 3.1/2.0 <\TH> <TH> 8GT/s <\TH>
-<TR><TH> Intel C216 <\TH> <TH> 6,7 W <\TH> <TH> 14 <\TH> <TH> 2,0 <\TH> <TH> 3.0/2.0 <\TH> <TH> <\TH>
+<TR><TH> Intel C216 <\TH> <TH> 6,7 W <\TH> <TH> 14 <\TH> <TH> 2,0 <\TH> <TH> 3.0/2.0 <\TH> <TH> 8GT/s <\TH>
   
